@@ -1,0 +1,36 @@
+code
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: #660000;
+    
+}
+
+.style
+{
+    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size:14 px;
+    color: #660000;
+}
+
+table, th, td {
+    border: 1px solid black;
+   
+  }
+  .font i
+  {
+      color: blue;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 16px;
+
+  }
+  .font b
+  {
+      
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      font-weight: bold;
+
+  }
